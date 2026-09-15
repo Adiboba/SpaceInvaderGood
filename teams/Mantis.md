@@ -8,15 +8,15 @@ The instructor team coordinates course activities, supports the project teams, a
 
 | Name | Role | GitHub |
 | --- | --- | --- |
-| Parth | | https://github.com/himmm69 |
-| Marko | | https://github.com/markovorkapic |
-| Adib |      | https://github.com/Adiboba| 
-| Aizat |   |https://github.com/AizatIqbal |
-| Farhana |   |https://github.com/hana-hanif  |
-|Hessa |  | https://github.com/srhessaroslan-ux | 
-| Aiman |  | https://github.com/Irfnaimann02 |
-| Dina | | https://github.com/dinaadaniii 
-| Syafiq | | https://github.com/syafiqnorfandhi |
+| Parth | Team Leader | https://github.com/himmm69 |
+| Marko | Game logic | https://github.com/markovorkapic |
+| Adib | Collaborator | https://github.com/Adiboba| 
+| Aizat | Logic Programmer & Back-end | https://github.com/AizatIqbal |
+| Farhana | System Architect & Database |https://github.com/hana-hanif  |
+|Hessa | UI/UX | https://github.com/srhessaroslan-ux | 
+| Aiman | Cross-System Integration Engineer | https://github.com/Irfnaimann02 |
+| Dina | QA & Balance Tester | https://github.com/dinaadaniii 
+| Syafiq | Front-end | https://github.com/syafiqnorfandhi |
 
 ## Responsibilities
 
