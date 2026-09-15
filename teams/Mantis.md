@@ -24,3 +24,12 @@ The instructor team coordinates course activities, supports the project teams, a
 - Coordinate team registration and requirement assignments.
 - Establish repository contribution and pull request guidelines.
 - Support cross-team reviews, dependency coordination, and integration.
+
+## Requirements
+- Records: Persistent tracking of player performance data
+- A milestone-based reward system that unlocks
+- Achievement system based on high score
+- Achievement system based on high score without losing lives
+- Achievements system on Coin System
+- Achievements system on when players reach specific in-game goals
+- Achievements system based on their accuracy
