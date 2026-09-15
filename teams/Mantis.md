@@ -8,16 +8,16 @@ The instructor team coordinates course activities, supports the project teams, a
 
 | Name | Role | GitHub |
 | --- | --- | --- |
-
-| Parth | | | https://github.com/himmm69 |
+| Parth | | https://github.com/himmm69 |
 | Marko | | https://github.com/markovorkapic |
 | Adib |      | https://github.com/Adiboba| 
 | Aizat |   |https://github.com/AizatIqbal |
-| Farhana |   |https://github.com/hana-hanif 
+| Farhana |   |https://github.com/hana-hanif  |
 |Hessa |  | https://github.com/srhessaroslan-ux | 
 | Aiman |  | https://github.com/Irfnaimann02 |
 | Dina | | https://github.com/dinaadaniii 
-| Syafiq | https://github.com/syafiqnorfandhi |
+| Syafiq | | https://github.com/syafiqnorfandhi |
+
 ## Responsibilities
 
 - Clarify the project scope and course requirements.
